@@ -76,7 +76,7 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 IDEs (Integrated Development Environments):
 Importance:
 Streamline coding: Provide tools for code editing, debugging, and testing in one interface.   
-Boost productivity: Automate tasks, offer code completion, and simplify complex processes.   
+Boost productivity: Automate tasks, offer code completion, and simplify complex processes.  
 Improve code quality: Offer syntax highlighting, error detection, and code analysis.   
 Examples:
 Visual Studio Code (VS Code)   
